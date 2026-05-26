@@ -17,5 +17,10 @@ public class Main {
 
         System.out.println(listaAlumnos);
         System.out.println("Nombre en el indice 2:" + listaAlumnos.get(1).getNombre());
+
+
+        for(int i=0; i<=10; i++){
+            System.out.println(i);
+        }
     }
 }
