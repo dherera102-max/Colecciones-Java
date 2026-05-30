@@ -24,5 +24,9 @@ public class Main {
         }
 
         System.out.println("el tamanio de la lista es: " + listaAlumnos.size());
+        for(int i=0; i<=5; i++){
+            System.out.println(i);
+        }
+
     }
 }
